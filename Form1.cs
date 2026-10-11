@@ -71,8 +71,8 @@ namespace VarakGUI
                 olvaso.ReadLine();
                 while (!olvaso.EndOfStream)
                 {
-                    string faszocska = olvaso.ReadLine();
-                    vars.Add(new Var(faszocska));
+                    string sor = olvaso.ReadLine();
+                    vars.Add(new Var(sor));
                 }
             }
         }
