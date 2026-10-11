@@ -1,0 +1,26 @@
+Id	Nev	Telepules	Megye	Latogato2023	Latogato2024	Jegyar
+1	Egri vár	Eger	Heves	288400	301250	3000
+2	Diósgyőri vár	Miskolc	Borsod-Abaúj-Zemplén	214300	208900	3500
+3	Visegrádi fellegvár	Visegrád	Pest	176500	189200	2800
+4	Füzéri vár	Füzér	Borsod-Abaúj-Zemplén	58400	61200	2500
+5	Sümegi vár	Sümeg	Veszprém	122700	118300	2600
+6	Siklósi vár	Siklós	Baranya	98100	104600	2400
+7	Gyulai vár	Gyula	Békés	131900	140250	2900
+8	Kőszegi vár	Kőszeg	Vas	64300	70800	2200
+9	Szigligeti vár	Szigliget	Veszprém	88600	91400	2000
+10	Drégelyi vár	Drégelypalánk	Nógrád	21500	23800	1200
+11	Hollókői vár	Hollókő	Nógrád	97300	102100	1800
+12	Siroki vár	Sirok	Heves	19800	18700	1000
+13	Boldogkői vár	Boldogkőváralja	Borsod-Abaúj-Zemplén	72600	75900	2300
+14	Sárospataki vár	Sárospatak	Borsod-Abaúj-Zemplén	91200	96700	2600
+15	Tatai vár	Tata	Komárom-Esztergom	68900	73400	2200
+16	Simontornyai vár	Simontornya	Tolna	24700	26100	1500
+17	Csesznek vára	Csesznek	Veszprém	45300	48800	1400
+18	Kinizsi-vár	Nagyvázsony	Veszprém	52100	54600	1900
+19	Salgó vára	Salgótarján	Nógrád	38200	41500	800
+20	Somoskői vár	Somoskőújfalu	Nógrád	33600	35900	1300
+21	Thury-vár	Várpalota	Veszprém	27400	29800	1600
+22	Ozorai Pipo-vár	Ozora	Tolna	31800	30200	1800
+23	Nádasdy-vár	Sárvár	Vas	56700	60300	2100
+24	Regéci vár	Regéc	Borsod-Abaúj-Zemplén	29500	33100	1500
+25	Kisvárdai vár	Kisvárda	Szabolcs-Szatmár-Bereg	22900	24400	1200
